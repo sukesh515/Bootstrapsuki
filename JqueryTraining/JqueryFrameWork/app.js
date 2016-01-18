@@ -1,4 +1,6 @@
 
+//comment test for GIT
+
 function myFunction() {
     var x = document.getElementById("demo");
     x.style.fontSize = "25px";           
