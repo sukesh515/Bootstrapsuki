@@ -1,5 +1,5 @@
 
-//comment test for GIT
+//comment test for GIT again
 
 function myFunction() {
     var x = document.getElementById("demo");
